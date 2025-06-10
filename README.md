@@ -1,5 +1,5 @@
 
-# Fire Detection using YOLOv8
+# Fire Detection System using YOLOv8
 
 ## :red_circle: Title
 Fire Detection using YOLOv8
