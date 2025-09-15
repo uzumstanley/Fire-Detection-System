@@ -1,0 +1,8 @@
+YOLOv8 Fire Detection System
+
+- Uses YOLOv8 for fast and accurate fire detection in images and videos.
+- Real-time detection suitable for safety and monitoring applications.
+- Easy to integrate and adapt for different environments.
+- Requires Python 3.x, PyTorch, OpenCV, NumPy, and Matplotlib.
+- Run detection with: 
+  python main.py --input <image_or_video> --output <output_path>
