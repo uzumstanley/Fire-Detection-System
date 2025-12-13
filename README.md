@@ -64,4 +64,4 @@ Feel free to contribute to this project. Please adhere to the following guidelin
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Author : Stanley Ekene 
+Author : Stanley Ekene Uzum 
